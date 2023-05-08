@@ -3,8 +3,10 @@
 <h3 align="center">At the end the thing only matters is what you build👩‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulamidas123&label=Profile%20views&color=0e75b6&style=flat" alt="poulamidas123" /> </p>
 
-<img align="right" alt="Coding" width="250" src="https://i.imgur.com/tEnc7zK.png">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poulamidas123" alt="poulamidas123" /></a> </p>
+
+<img align="right" alt="Coding" width="250" src="https://i.imgur.com/tEnc7zK.png">
+
 - 🌱 I’m currently learning **React,Spring Boot, MongoDB**
 
 - 💬 Ask me about **Data Structure, Java & Machine Learning**
