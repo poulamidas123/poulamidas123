@@ -1,8 +1,7 @@
 [![MasterHead](https://i.imgur.com/spmFUMb.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Poulami Das</h1>
 <h3 align="center">At the end the thing only matters is what you build👩‍💻</h3>
-<br>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/tEnc7zK.png">
+<img align="right" alt="Coding" width="300" src="https://i.imgur.com/tEnc7zK.png">
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poulamidas123&label=Profile%20views&color=0e75b6&style=flat" alt="poulamidas123" /> </p>
 
