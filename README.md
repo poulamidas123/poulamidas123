@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/spmFUMb.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Poulami Das</h1>
 <h3 align="center">At the end the thing only matters is what you build👩‍💻</h3>
-<img align="right" alt="Coding" width="300" src="https://i.imgur.com/iAnXgLS.png">
+<img align="right" alt="Coding" width="300" src="https://i.imgur.com/iAnXgLS.png"><br><br>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poulamidas123" alt="poulamidas123" /></a> </p> -->
 
